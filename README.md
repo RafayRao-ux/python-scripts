@@ -32,5 +32,5 @@ python todo.py
 
 ## Author
 
-Abdul Rafay — CS Student at Sindh Agriculture University  
-GitHub: github.com/RafayRao-ux
+Abdul Rafay — SE Student at Sindh Agriculture University  
+GitHub: https://github.com/RafayRao-ux
