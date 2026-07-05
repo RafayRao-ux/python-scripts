@@ -39,4 +39,4 @@ python Timer.py
 
 Abdul Rafay — SE Student at Sindh Agriculture University 
 GitHub: https://github.com/RafayRao-ux 
-LinkedIn: [linkedin.com/in/abdulrafay](https://linkedin.com/in/abdulrafay)
+LinkedIn: linkedin.com/in/rafay-rao-67743532b
