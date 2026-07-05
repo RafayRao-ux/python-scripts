@@ -1,36 +1,42 @@
 # Python Scripts Collection 🐍
 
-A collection of 5 Python scripts built to practice core fundamentals
-including loops, functions, lists, file I/O, and user input.
+5 Python scripts built to practice core programming fundamentals —
+functions, loops, file I/O, error handling, dictionaries, and modules.
 
 ## Scripts
 
-| File | What it does |
+| File | Description |
 |------|-------------|
-| calculator.py | Command-line calculator with +, -, *, / |
-| todo.py | To-do list that saves tasks to a file |
-| file_reader.py | Reads and displays contents of any text file |
-| word_counter.py | Counts words in a sentence entered by the user |
-| guessing_game.py | Number guessing game with high/low hints |
+| calculator.py | Loop-based calculator with operator validation, division-by-zero protection, and try/except error handling |
+| CurrencyConverter.py | Reads exchange rates from a local file, parses tab-separated data into a dictionary, converts PKR to any listed currency |
+| PasswordGenerator.py | Generates secure passwords based on user preferences (length, digits, symbols) and saves them to a .txt file |
+| QuizGame.py | Multiple-choice quiz with score tracking, percentage result, and guess history displayed at the end |
+| Timer.py | Countdown timer that accepts seconds and displays HH:MM:SS format using Python's time module |
+
+## Concepts covered
+
+- `while` loops and `for` loops
+- `try` / `except` error handling
+- File I/O — reading and writing `.txt` files
+- Dictionaries and list comprehensions
+- Python `string`, `random`, and `time` modules
+- f-strings and input formatting
 
 ## How to run
 
-Make sure Python is installed, then:
+Make sure Python 3 is installed, then navigate to this folder:
 
 ```bash
+cd python-scripts
 python calculator.py
-python todo.py
+python CurrencyConverter.py
+python PasswordGenerator.py
+python QuizGame.py
+python Timer.py
 ```
-
-## Skills used
-
-- Python 3
-- if/else, loops, functions
-- Lists and tuples
-- File I/O (reading and writing .txt files)
-- Exception handling (try/except)
 
 ## Author
 
-Abdul Rafay — SE Student at Sindh Agriculture University  
-GitHub: https://github.com/RafayRao-ux
+Abdul Rafay — SE Student at Sindh Agriculture University 
+GitHub: https://github.com/RafayRao-ux 
+LinkedIn: [linkedin.com/in/abdulrafay](https://linkedin.com/in/abdulrafay)
