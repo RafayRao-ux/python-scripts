@@ -38,5 +38,5 @@ python Timer.py
 ## Author
 
 Abdul Rafay — SE Student at Sindh Agriculture University <br>
-GitHub: https://github.com/RafayRao-ux 
+GitHub: https://github.com/RafayRao-ux <br>
 LinkedIn: [linkedin.com/in/rafay-rao-67743532b](https://www.linkedin.com/in/rafay-rao-67743532b)
